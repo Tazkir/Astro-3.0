@@ -10,11 +10,28 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/netlify": "^3.0.1",
+    "@astrojs/rss": "^3.0.0",
+    "@astrojs/sitemap": "^2.0.2",
     "@astrojs/tailwind": "^5.0.0",
-    "astro": "^3.0.10",
+    "@astrojs/vercel": "^5.0.0",
+    "@cloudinary/url-gen": "^1.10.0",
+    "@fontsource/cabin": "^5.0.8",
+    "@xata.io/client": "^0.23.5",
+    "astro": "^3.1.0",
+    "bcryptjs": "^2.4.3",
+    "date-fns": "^2.30.0",
+    "markdown-it": "^13.0.1",
+    "mdast-util-to-string": "^3.2.0",
+    "reading-time": "^1.5.0",
+    "sanitize-html": "^2.10.0",
     "tailwindcss": "^3.0.24"
   },
   "devDependencies": {
+    "@tailwindcss/typography": "^0.5.9",
+    "@types/bcryptjs": "^2.4.2",
+    "@types/markdown-it": "^12.2.3",
+    "@types/sanitize-html": "^2.9.0",
     "prettier": "^3.0.3",
     "prettier-plugin-astro": "^0.12.0"
   }
